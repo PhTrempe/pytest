@@ -79,7 +79,9 @@ celerybeat-schedule
 .env
 
 # virtualenv
+env/
 venv/
+virtualenv/
 ENV/
 
 # Spyder project settings
@@ -87,3 +89,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# IntelliJ metadata
+.idea/
